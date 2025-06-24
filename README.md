@@ -12,3 +12,8 @@ For commercial licensing, please contact guechi.ayoub@proton.me .
 See [LICENSE.md](./LICENSE.md) for the full license text.
 
 ![License: PolyForm Noncommercial](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)
+
+
+[![DOI](https://zenodo.org/badge/1008002399.svg)](https://doi.org/10.5281/zenodo.15733643)
+
+
