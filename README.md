@@ -25,6 +25,18 @@ You can help change that.
 - Documentation & educational content
 - Anything you’re passionate about—there’s a place for you!
 
+## License
+
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).  
+
+**You may use, modify, and share this code for noncommercial purposes only. Commercial use is prohibited unless you obtain a license from the author.**Add commentMore actions
+
+For commercial licensing, please contact guechi.ayoub@proton.me .
+
+See [LICENSE.md](./LICENSE.md) for the full license text.
+
+![License: PolyForm Noncommercial](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)
+
 
 **Ready to make a real difference? Join SIGN-AI and let’s build the future together!**
 
