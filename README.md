@@ -1,7 +1,5 @@
 # SIGN-AI: An AI Assistant for Sign Language
 
-# SIGN-AI: High-Fidelity Real-Time Sign Language Synthesis
-
 ## Project Overview
 
 SIGN-AI is a unified framework designed to enable high-fidelity sign language synthesis from text, voice, and video inputs. Its primary goal is to bridge accessibility gaps for over 70 million deaf individuals worldwide by providing real-time, accurate sign language translation for media, education, and professional communication.
