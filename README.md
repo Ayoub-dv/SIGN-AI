@@ -1,37 +1,31 @@
-# SIGN-AI: An AI Assistant for Sign Language
+# Join the developemnt of SIGN-AI – An AI Assistant For Sign Language
 
-## Project Overview
+Access to education, media, and professional opportunities should be universal, yet poeple with special needs face significant barriers every day. With **SIGN-AI**, i'm creating direct, instant communication to make it possible for poeple with special needs to engage with the world through real-time sign language translation from text, voice, or video.
 
-SIGN-AI is a unified framework designed to enable high-fidelity sign language synthesis from text, voice, and video inputs. Its primary goal is to bridge accessibility gaps for over 70 million deaf individuals worldwide by providing real-time, accurate sign language translation for media, education, and professional communication.
+**SIGN-AI** introduces an innovative approach to communication, transforming content into clear, accurate sign language translations as it happens. This technology enables students to follow complex STEM lessons, professionals to participate fully in live meetings, and families to share media experiences—all with seamless accessibility.
 
-## Motivation
-
-- **Accessibility Barriers:**  
-  - 83% of STEM education materials are not accessible in sign language.
-  - Only 4.7% of online content includes sign interpretation.
-  - Deaf individuals face 3× higher unemployment rates than hearing peers.
-  
-## Future Directions
-
-- Low-latency video-to-video sign language conversion
-- Integration of an intelligent AI Assistant for enhanced accessibility
+Your expertise and enthusiasm can help shape a more inclusive technology , be a part of SIGN-AI!
 
 ---
 
-**SIGN-AI stands as a transformative solution for accessibility, education, and social inclusion, leveraging advanced AI to empower the global deaf community.**
+## Why SIGN-AI Matters
 
-## License
+- **Break Down Barriers:**  
+  - Over 80% of STEM content is out of reach for the deaf community.
+  - Less than 5% of online material offers sign interpretation.
+    
+You can help change that.
 
-This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).  
-**You may use, modify, and share this code for noncommercial purposes only. Commercial use is prohibited unless you obtain a license from the author.**
+### How You Can Help
 
-For commercial licensing, please contact guechi.ayoub@proton.me .
-
-See [LICENSE.md](./LICENSE.md) for the full license text.
-
-![License: PolyForm Noncommercial](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)
-
-
-[![DOI](https://zenodo.org/badge/1008002399.svg)](https://doi.org/10.5281/zenodo.15733643)
+- AI & ML research
+- Data engineering & dataset curation
+- UI/UX design
+- Community outreach & accessibility advocacy
+- Documentation & educational content
+- Anything you’re passionate about—there’s a place for you!
 
 
+**Ready to make a real difference? Join SIGN-AI and let’s build the future together!**
+
+[Get Involved • Star the Repo • Share the Vision]
