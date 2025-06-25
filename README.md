@@ -10,30 +10,7 @@ SIGN-AI is a unified framework designed to enable high-fidelity sign language sy
   - 83% of STEM education materials are not accessible in sign language.
   - Only 4.7% of online content includes sign interpretation.
   - Deaf individuals face 3× higher unemployment rates than hearing peers.
-
-## Core Contributions
-
-SIGN-AI introduces two novel algorithmic approaches:
-
-### 1. **Text/Image-Driven Synthesis (Algorithm 1)**
-- **Pipeline:** Converts multimodal inputs to text, generates sign images using Vision Transformers (SGN-IMG dataset), animates frames via optical flow prediction (0.5–2s clips), and sequences with LSTM models.
-- **Advantages:**  
-  - CPU-feasible (computationally efficient)
-  - Explicit, fine-grained sign control
-  - 70% reduction in computational resources vs. state-of-the-art
-
-### 2. **End-to-End Video Synthesis (Algorithm 2)**
-- **Pipeline:** Uses diffusion models (SGN-VID dataset) to directly translate text to motion vectors, producing 1–3s sign language video segments with attention-based fusion.
-- **Advantages:**  
-  - Superior motion fidelity via learned co-articulation
-  - Achieves 92% motion naturalness benchmark
-
-## Projected Impact
-
-- **Education:** 45% faster STEM concept acquisition, 30% increase in deaf graduates by 2035
-- **Economy:** $17B estimated annual productivity gains
-- **Society:** Real-time translation for streaming media, educational, and professional platforms
-
+  
 ## Future Directions
 
 - Low-latency video-to-video sign language conversion
