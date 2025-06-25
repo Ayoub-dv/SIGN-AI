@@ -1,4 +1,4 @@
-# Join the developemnt of SIGN-AI – An AI Assistant For Sign Language
+# SIGN-AI – An AI Assistant For Sign Language
 
 Access to education, media, and professional opportunities should be universal, yet poeple with special needs face significant barriers every day. With **SIGN-AI**, i'm creating direct, instant communication to make it possible for poeple with special needs to engage with the world through real-time sign language translation from text, voice, or video.
 
