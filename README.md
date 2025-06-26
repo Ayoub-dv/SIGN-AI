@@ -25,6 +25,18 @@ You can help change that.
 - Documentation & educational content
 - Anything you’re passionate about—there’s a place for you!
 
+## Citaion
+
+@misc{Ayoub-dv2025,
+  author = {Ayoub-dv},
+  title = {Ayoub-dv/SIGN-AI: v0.0.1-alpha},
+  year = {2025},
+  note = {v0.0.1-alpha},
+  publisher = {Zenodo},
+  url = {https://doi.org/10.5281/zenodo.15733644}
+}
+
+
 ## License
 
 This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).  
